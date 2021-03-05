@@ -74,6 +74,8 @@ Public Class Form1
         main()
     End Sub
 
+
+
     Private Sub btnDesencriptar_Click(sender As Object, e As EventArgs) Handles btnDesencriptar.Click
         Desencriptar("", "", sSecretKey)
 
